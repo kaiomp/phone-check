@@ -1,0 +1,9 @@
+Data-Free: 1000K / 100000K total = 5% free
+App Size: 5000000000
+App Data Size: 1000000000
+Photos Size: 2000000000
+Videos Size: 3000000000
+Package Names: ["com.example.notes","com.example.tracker"]
+App Sizes: [60000000,1000]
+App Data Sizes: [10000000,1000]
+Cache Sizes: [0,0]

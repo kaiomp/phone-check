@@ -1,0 +1,2 @@
+  health: 4
+cycle_count: 900

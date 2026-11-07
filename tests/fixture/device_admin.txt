@@ -1,0 +1,3 @@
+  Pending System Update: SystemUpdateInfo (receivedTime = 1792011601864, securityPatchState = unknown)
+  Enabled Device Admins (User 0, provisioningState: 0):
+    com.example.tracker/.Admin:

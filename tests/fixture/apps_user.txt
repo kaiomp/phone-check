@@ -1,0 +1,2 @@
+package:/data/app/x/base.apk=com.example.notes  installer=com.android.vending uid:10100
+package:/data/app/y/base.apk=com.example.tracker  installer=com.google.android.packageinstaller uid:10101

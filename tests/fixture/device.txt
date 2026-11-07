@@ -1,0 +1,7 @@
+scan_date=2026-01-01
+[ro.boot.flash.locked]: [1]
+[ro.boot.verifiedbootstate]: [green]
+[ro.build.version.release]: [15]
+[ro.build.version.security_patch]: [2020-01-05]
+[ro.debuggable]: [0]
+[ro.product.model]: [Test Phone]

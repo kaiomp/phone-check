@@ -1,0 +1,10 @@
+  Uid 10101:
+    Package com.example.tracker:
+      RECORD_AUDIO (allow): 
+        null=[
+          Access: [fg-s] 2026-01-01 10:00:00.000 (-2d1h0m0s0ms) duration=+5s
+        ]
+      CAMERA (allow): 
+        null=[
+          Access: [fg-s] 2024-01-01 10:00:00.000 (-700d1h0m0s0ms)
+        ]

@@ -36,6 +36,7 @@ grab device_admin dumpsys device_policy
 grab accounts     dumpsys account
 
 # network routing: VPN, proxy, private DNS
+# shellcheck disable=SC2016  # $(...) must expand on the phone, not the Mac
 grab network      'echo "http_proxy=$(settings get global http_proxy)"; echo "private_dns_mode=$(settings get global private_dns_mode)"; echo "private_dns_specifier=$(settings get global private_dns_specifier)"; echo; dumpsys connectivity | grep -iE "VPN|NetworkAgentInfo" | head -50'
 grab certs_user   'ls -la /data/misc/user/0/cacerts-added 2>&1'
 

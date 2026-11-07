@@ -1,0 +1,3 @@
+# scan output holds personal data (apps, accounts, permissions)
+reports/
+.DS_Store
